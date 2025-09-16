@@ -2,10 +2,10 @@
 
 # Technology Used:-
 
-Python
-Numpy and Pandas for data cleaning
-Matplotlib for data visualization
-Sklearn for model building
-visual studio code
-Python flask for http server
-HTML/CSS/Javascript for UI
+1. Python
+2. Numpy and Pandas for data cleaning
+3. Matplotlib for data visualization
+4. Sklearn for model building
+5. visual studio code
+6. Python flask for http server
+7. HTML/CSS/Javascript for UI
